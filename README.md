@@ -7,14 +7,14 @@ An utiltarian CLI that will handle the needs of python developers. The following
 - Server (Gateway Interface servers) management
 - Launcher management (Ports, files, env variables)
 
-<summary>
-## Managing PIP packages
+<summary id="1">
+<h2> Managing PIP packages </h2>
 </summary>
 
-<summary>
-## Handling a ASGI/WSGI Server.
+<summary id="2">
+<h2> Handling a ASGI/WSGI Server.</h2>
 </summary>
 
-<summary>
-## Managing ports, files and environment variables
+<summary id="3">
+<h2> Managing ports, files and environment variables</h2>
 </summary>
